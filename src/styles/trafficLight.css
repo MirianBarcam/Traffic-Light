@@ -1,0 +1,39 @@
+
+.trafficLight-container-light{
+    height: 30em;
+    width: 10em;
+    background-color: rgb(24, 23, 23);
+    padding-top: 30px;
+}
+
+.trafficLight-red,.trafficLight-orange ,.trafficLight-green{
+    width: 8em;
+    height: 8em;
+    margin: auto;
+    border-radius: 70%;
+    margin-top: 5%;
+}
+
+.trafficLight-red{
+    background-color: rgb(112, 22, 22);
+}
+.trafficLight-orange{
+    background-color: rgb(190, 107, 12);
+}
+
+.trafficLight-green{
+    background-color: rgb(30, 110, 9);  
+    
+}
+
+.trafficLight-stick{
+    background-color: rgb(24, 23, 23);
+    height: 12em;
+    width: 2em;
+    margin: auto;
+}
+
+.trafficLight-light-on{
+    box-shadow: 0px 0px 50px rgb(234, 234, 143); 
+}
+
